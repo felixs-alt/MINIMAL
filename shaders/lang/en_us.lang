@@ -2,7 +2,9 @@
 option.ENABLE_COLORED_SHADOW=Colored Shadow
 option.ENABLE_FOG=Border Fog
 
-option.SHADOW_BRIGHTNESS=Shadow Brightness
+profile.NORMAL=Normal
+profile.MINIMAL=Minimal
+
 option.shadowMapResolution=Shadow Resolution
 value.shadowMapResolution.512=§bLow (512p)
 value.shadowMapResolution.1024=§aMedium (1K)
